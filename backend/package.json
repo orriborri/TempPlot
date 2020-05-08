@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "@types/mongodb": "^3.5.16",
     "express": "^4.17.1",
+    "mongodb": "^3.5.7",
     "mqtt": "^4.0.0"
   },
   "devDependencies": {
