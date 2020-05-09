@@ -1,10 +1,9 @@
 import express from "express";
 import { connect } from "mqtt";
-import { MongoClient } from "mongodb";
 import fs from "fs";
 
 type extTemp = { temp: number; time: string };
-type tempFile = { maxTemp: extTemp; minTemp: extTemp; data: [{}] };
+type tempFile = { maxTemp: extTemp; minTemp: extTemp; data: [any] };
 
 const client = connect("mqtt://192.168.11.151");
 
@@ -13,20 +12,23 @@ const client = connect("mqtt://192.168.11.151");
 
 function updateJsonFile(tempString: any) {
   const tempJson = JSON.parse(tempString);
-  fs.mkdirSync("data");
+  //fs.mkdirSync("data");
   if (tempJson.id === 188) {
     const dateTime = tempJson["time"];
     const date = dateTime.split(" ")[0];
-    fs.readFile("./data/" + date + ".json", "utf8", (err, data) => {
+    fs.readFile("data/" + date + ".json", "utf8", (err, data) => {
       let dailyTempData: tempFile;
-      const temp = tempJson["temp"];
+      const temp = tempJson["temperature_C"];
+      console.log(temp);
       if (err) {
+        console.log("dailyfile not found");
         dailyTempData = {
           maxTemp: { temp: temp, time: dateTime },
           minTemp: { temp: temp, time: dateTime },
           data: [{}]
         };
       } else {
+        console.log("oldtemp file: " + data);
         dailyTempData = JSON.parse(data);
       }
       let max = dailyTempData["maxTemp"];
@@ -38,9 +40,14 @@ function updateJsonFile(tempString: any) {
         dailyTempData["minTemp"] = { temp: temp, time: dateTime };
       }
       dailyTempData.data.push(tempJson);
-      fs.writeFileSync("./data/" + date + ".json", JSON, "utf8", err => {
-        console.log(err);
-      });
+      fs.writeFile(
+        "data/" + date + ".json",
+        JSON.stringify(dailyTempData),
+        "utf8",
+        err => {
+          console.log(err);
+        }
+      );
     });
   }
 }
