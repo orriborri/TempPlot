@@ -78,19 +78,18 @@ app.get("/", (req, res) => {
     maxTemp: extTemp;
     minTemp: extTemp;
   }>();
-  fs.readdirSync("data").forEach(file => {
-    let temp = {} as tempFile;
-    fs.readFile("data/" + file, "utf8", (err, data) => {
-      temp = JSON.parse(data) as tempFile;
-      tempData.push({
-        date: file,
-        maxTemp: temp.maxTemp,
-        minTemp: temp.minTemp
-      });
-      res.send(tempData);
+  const dataLs = fs.readdirSync("data");
+  dataLs.forEach(file => {
+    let temp = JSON.parse(fs.readFileSync("data/" + file, "utf8")) as tempFile;
+    tempData.push({
+      date: file,
+      maxTemp: temp.maxTemp,
+      minTemp: temp.minTemp
     });
   });
+  res.send(tempData);
 });
+
 app.listen(port, err => {
   if (err) {
     return console.error(err);
