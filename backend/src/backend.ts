@@ -5,8 +5,14 @@ import { fileURLToPath } from "url";
 import { json } from "body-parser";
 
 type extTemp = { temp: number; time: string };
-type tempFile = { maxTemp: extTemp; minTemp: extTemp; data: [any] };
-
+type tempFile = { maxTemp: extTemp; minTemp: extTemp; data: [measurement] };
+type measurement = {
+  time: string;
+  module: string;
+  id: number;
+  channel: number;
+  temperature_C: number;
+};
 const client = connect("mqtt://192.168.11.151");
 
 //const url = "mongodb://192.168.11.151:27017";
@@ -42,14 +48,7 @@ function updateJsonFile(tempString: any) {
       } else if (temp < min.temp) {
         dailyTempData["minTemp"] = { temp: temp, time: dateTime };
       }
-      fs.writeFile(
-        "data/" + date + ".json",
-        JSON.stringify(dailyTempData),
-        "utf8",
-        err => {
-          console.log(err);
-        }
-      );
+      fs.writeFileSync("data/" + date + ".json", JSON.stringify(dailyTempData));
     });
   }
 }
@@ -73,21 +72,21 @@ const app = express();
 const port = 3000;
 
 app.get("/", (req, res) => {
-  let tempData = new Array<{
-    date: String;
-    maxTemp: extTemp;
-    minTemp: extTemp;
-  }>();
+  let tempData = new Array<measurement>();
+  let maxData = new Array<extTemp>();
+  let minData = new Array<extTemp>();
   const dataLs = fs.readdirSync("data");
   dataLs.forEach(file => {
     let temp = JSON.parse(fs.readFileSync("data/" + file, "utf8")) as tempFile;
-    tempData.push({
-      date: file,
-      maxTemp: temp.maxTemp,
-      minTemp: temp.minTemp
-    });
+    temp["data"].forEach(data => tempData.push(data));
+    minData.push(temp["minTemp"]);
+    maxData.push(temp["maxTemp"]);
   });
-  res.send(tempData);
+  res.send({
+    temperaturedata: tempData,
+    maxDailyData: maxData,
+    minDailyData: minData
+  });
 });
 
 app.listen(port, err => {
