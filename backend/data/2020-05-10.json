@@ -1,0 +1,6361 @@
+{
+  "maxTemp": { "temp": 29.1, "time": "2020-05-10 14:25:43" },
+  "minTemp": { "temp": 12.8, "time": "2020-05-10 10:37:24" },
+  "data": [
+    {},
+    {
+      "time": "2020-05-10 00:00:18",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.9,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 00:01:15",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.9,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 00:02:12",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.9,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 00:03:09",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.9,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 00:04:06",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.9,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 00:05:03",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.8,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 00:06:00",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.8,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 00:06:57",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.8,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 00:07:54",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.8,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 00:08:51",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.8,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 00:09:48",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.8,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 00:10:45",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.8,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 00:11:42",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.8,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 00:12:39",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.7,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 00:13:36",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.7,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 00:14:33",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.7,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 00:15:30",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.7,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 00:16:27",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.7,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 00:17:24",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.7,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 00:18:21",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.7,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 00:19:18",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.7,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 00:20:15",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.7,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 00:21:12",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.7,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 00:22:09",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.7,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 00:23:05",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.7,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 00:24:03",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.7,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 00:25:00",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.7,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 00:25:57",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.6,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 00:26:54",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.6,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 00:27:51",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.6,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 00:28:48",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.6,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 00:29:45",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.6,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 00:30:42",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.6,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 00:31:39",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.6,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 00:32:36",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.6,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 00:33:33",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.6,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 00:34:30",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.6,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 00:35:27",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.5,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 00:36:24",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.5,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 00:37:21",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.5,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 00:38:18",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.5,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 00:39:15",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.5,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 00:40:12",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.5,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 00:41:09",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.5,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 00:42:06",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.5,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 00:43:03",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.5,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 00:44:00",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.4,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 00:44:57",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.4,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 00:45:54",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.4,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 00:46:51",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.4,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 00:47:48",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.4,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 00:48:45",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.4,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 00:49:42",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.4,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 00:50:39",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.4,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 00:51:36",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.4,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 00:52:33",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.4,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 00:53:30",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.4,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 00:54:27",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.3,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 00:55:24",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.3,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 00:56:21",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.3,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 00:57:18",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.3,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 00:58:15",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.3,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 00:59:12",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.3,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 01:00:09",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.3,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 01:01:06",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.3,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 01:02:03",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.3,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 01:03:00",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.3,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 01:03:57",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.2,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 01:04:54",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.2,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 01:05:51",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.2,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 01:06:48",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.2,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 01:07:45",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.2,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 01:08:42",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.2,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 01:09:39",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.2,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 01:10:35",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.2,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 01:11:33",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.2,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 01:12:30",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.2,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 01:13:27",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.2,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 01:14:24",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.2,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 01:15:21",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.2,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 01:16:18",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.2,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 01:17:15",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.1,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 01:18:12",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.1,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 01:19:09",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.1,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 01:20:06",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.1,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 01:21:03",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.1,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 01:22:00",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.1,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 01:22:57",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.1,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 01:23:54",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.1,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 01:24:51",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.1,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 01:25:48",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.1,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 01:26:45",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 01:27:42",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 01:28:39",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 01:29:36",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 01:30:33",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 01:31:30",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 01:32:27",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 01:33:24",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 01:34:21",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 01:35:18",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 01:36:15",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 01:37:12",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 01:38:09",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 01:39:06",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.9,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 01:40:03",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.9,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 01:41:00",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.9,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 01:41:57",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.9,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 01:42:54",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.9,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 01:43:51",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.9,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 01:44:48",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.9,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 01:45:45",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.9,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 01:46:42",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.9,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 01:47:39",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.9,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 01:48:36",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.9,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 01:49:33",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.9,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 01:50:30",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.9,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 01:51:27",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.9,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 01:52:24",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.8,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 01:53:21",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.8,
+      "humidity": 10
+    },
+    {
+      "time": "2020-05-10 01:54:18",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.8,
+      "humidity": 10
+    },
+    {
+      "time": "2020-05-10 01:55:15",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.8,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 01:56:12",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.8,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 01:57:09",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.8,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 01:58:05",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.8,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 01:59:03",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.8,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 02:00:00",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.8,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 02:00:57",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.7,
+      "humidity": 10
+    },
+    {
+      "time": "2020-05-10 02:01:54",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.7,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 02:02:51",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.7,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 02:03:48",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.7,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 02:04:45",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.7,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 02:05:42",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.7,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 02:06:39",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.7,
+      "humidity": 10
+    },
+    {
+      "time": "2020-05-10 02:07:36",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.7,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 02:08:32",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.7,
+      "humidity": 10
+    },
+    {
+      "time": "2020-05-10 02:09:30",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.7,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 02:10:27",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.7,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 02:11:24",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.7,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 02:12:21",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.7,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 02:13:18",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.6,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 02:14:15",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.6,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 02:15:12",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.6,
+      "humidity": 10
+    },
+    {
+      "time": "2020-05-10 02:16:09",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.6,
+      "humidity": 10
+    },
+    {
+      "time": "2020-05-10 02:17:06",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.6,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 02:18:02",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.6,
+      "humidity": 10
+    },
+    {
+      "time": "2020-05-10 02:19:00",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.6,
+      "humidity": 10
+    },
+    {
+      "time": "2020-05-10 02:19:57",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.6,
+      "humidity": 10
+    },
+    {
+      "time": "2020-05-10 02:20:54",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.6,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 02:21:51",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.6,
+      "humidity": 10
+    },
+    {
+      "time": "2020-05-10 02:22:48",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.6,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 02:23:45",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.6,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 02:24:42",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.6,
+      "humidity": 10
+    },
+    {
+      "time": "2020-05-10 02:25:39",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.6,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 02:26:35",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.6,
+      "humidity": 10
+    },
+    {
+      "time": "2020-05-10 02:27:32",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.6,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 02:28:29",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.5,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 02:29:26",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.5,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 02:30:23",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.5,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 02:31:20",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.5,
+      "humidity": 10
+    },
+    {
+      "time": "2020-05-10 02:32:17",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.5,
+      "humidity": 10
+    },
+    {
+      "time": "2020-05-10 02:33:14",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.5,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 02:34:11",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.5,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 02:35:08",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.5,
+      "humidity": 10
+    },
+    {
+      "time": "2020-05-10 02:36:05",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.5,
+      "humidity": 10
+    },
+    {
+      "time": "2020-05-10 02:37:02",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.5,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 02:37:59",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.5,
+      "humidity": 10
+    },
+    {
+      "time": "2020-05-10 02:38:56",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.5,
+      "humidity": 10
+    },
+    {
+      "time": "2020-05-10 02:39:53",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.5,
+      "humidity": 10
+    },
+    {
+      "time": "2020-05-10 02:40:50",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.5,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 02:41:47",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.5,
+      "humidity": 10
+    },
+    {
+      "time": "2020-05-10 02:42:44",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.4,
+      "humidity": 10
+    },
+    {
+      "time": "2020-05-10 02:43:41",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.4,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 02:44:38",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.4,
+      "humidity": 10
+    },
+    {
+      "time": "2020-05-10 02:45:35",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.4,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 02:46:32",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.4,
+      "humidity": 10
+    },
+    {
+      "time": "2020-05-10 02:47:29",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.4,
+      "humidity": 10
+    },
+    {
+      "time": "2020-05-10 02:48:26",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.4,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 02:49:23",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.4,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 02:50:20",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.4,
+      "humidity": 10
+    },
+    {
+      "time": "2020-05-10 02:51:17",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.4,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 02:52:14",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.4,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 02:53:11",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.4,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 02:54:08",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.4,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 02:55:05",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.4,
+      "humidity": 10
+    },
+    {
+      "time": "2020-05-10 02:56:02",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.4,
+      "humidity": 10
+    },
+    {
+      "time": "2020-05-10 02:56:59",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.4,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 02:57:56",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.4,
+      "humidity": 10
+    },
+    {
+      "time": "2020-05-10 02:58:53",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.4,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 02:59:50",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.4,
+      "humidity": 10
+    },
+    {
+      "time": "2020-05-10 03:00:47",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.4,
+      "humidity": 10
+    },
+    {
+      "time": "2020-05-10 03:01:44",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.4,
+      "humidity": 10
+    },
+    {
+      "time": "2020-05-10 03:02:41",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.4,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 03:03:38",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.4,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 03:04:35",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.4,
+      "humidity": 10
+    },
+    {
+      "time": "2020-05-10 03:05:32",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.4,
+      "humidity": 10
+    },
+    {
+      "time": "2020-05-10 03:06:29",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.4,
+      "humidity": 10
+    },
+    {
+      "time": "2020-05-10 03:07:26",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.4,
+      "humidity": 10
+    },
+    {
+      "time": "2020-05-10 03:08:23",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.4,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 03:09:20",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.4,
+      "humidity": 10
+    },
+    {
+      "time": "2020-05-10 03:10:17",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.4,
+      "humidity": 10
+    },
+    {
+      "time": "2020-05-10 03:11:14",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.4,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 03:12:11",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.4,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 03:13:08",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.4,
+      "humidity": 10
+    },
+    {
+      "time": "2020-05-10 03:14:05",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.4,
+      "humidity": 10
+    },
+    {
+      "time": "2020-05-10 03:15:02",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.4,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 03:15:59",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.4,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 03:16:56",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.4,
+      "humidity": 10
+    },
+    {
+      "time": "2020-05-10 03:17:53",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.4,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 03:18:50",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.4,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 03:19:47",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.4,
+      "humidity": 10
+    },
+    {
+      "time": "2020-05-10 03:20:44",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.4,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 03:21:41",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.4,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 03:22:38",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.4,
+      "humidity": 10
+    },
+    {
+      "time": "2020-05-10 03:23:35",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.4,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 03:24:32",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.4,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 03:25:29",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.4,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 03:26:26",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.4,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 03:27:23",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.4,
+      "humidity": 10
+    },
+    {
+      "time": "2020-05-10 03:28:20",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.4,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 03:29:17",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.4,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 03:30:14",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.4,
+      "humidity": 10
+    },
+    {
+      "time": "2020-05-10 03:31:11",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.4,
+      "humidity": 10
+    },
+    {
+      "time": "2020-05-10 03:32:08",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.4,
+      "humidity": 10
+    },
+    {
+      "time": "2020-05-10 03:33:05",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.4,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 03:34:02",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.4,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 03:34:59",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.4,
+      "humidity": 10
+    },
+    {
+      "time": "2020-05-10 03:35:56",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.4,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 03:36:53",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.4,
+      "humidity": 10
+    },
+    {
+      "time": "2020-05-10 03:37:50",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.4,
+      "humidity": 10
+    },
+    {
+      "time": "2020-05-10 03:38:47",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.4,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 03:39:44",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.4,
+      "humidity": 10
+    },
+    {
+      "time": "2020-05-10 03:40:41",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.4,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 03:41:38",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.4,
+      "humidity": 10
+    },
+    {
+      "time": "2020-05-10 03:42:35",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.4,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 03:43:32",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.5,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 03:44:29",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.5,
+      "humidity": 10
+    },
+    {
+      "time": "2020-05-10 03:45:26",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.5,
+      "humidity": 10
+    },
+    {
+      "time": "2020-05-10 03:46:23",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.5,
+      "humidity": 10
+    },
+    {
+      "time": "2020-05-10 03:47:20",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.5,
+      "humidity": 10
+    },
+    {
+      "time": "2020-05-10 03:48:17",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.5,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 03:49:14",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.5,
+      "humidity": 10
+    },
+    {
+      "time": "2020-05-10 03:50:11",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.5,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 03:51:08",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.5,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 03:52:05",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.5,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 03:53:02",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.5,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 03:53:59",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.5,
+      "humidity": 10
+    },
+    {
+      "time": "2020-05-10 03:54:56",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.5,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 03:55:53",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.5,
+      "humidity": 10
+    },
+    {
+      "time": "2020-05-10 03:56:50",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.5,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 03:57:47",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.5,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 03:58:44",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.5,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 03:59:41",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.5,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 04:00:38",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.5,
+      "humidity": 10
+    },
+    {
+      "time": "2020-05-10 04:01:35",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.5,
+      "humidity": 10
+    },
+    {
+      "time": "2020-05-10 04:02:32",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.5,
+      "humidity": 10
+    },
+    {
+      "time": "2020-05-10 04:03:29",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.5,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 04:04:26",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.5,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 04:05:23",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.5,
+      "humidity": 10
+    },
+    {
+      "time": "2020-05-10 04:06:20",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.5,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 04:07:17",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.5,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 04:08:14",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.5,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 04:09:11",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.6,
+      "humidity": 10
+    },
+    {
+      "time": "2020-05-10 04:10:08",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.6,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 04:11:05",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.6,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 04:12:02",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.6,
+      "humidity": 10
+    },
+    {
+      "time": "2020-05-10 04:12:59",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.6,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 04:13:56",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.6,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 04:14:53",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.6,
+      "humidity": 10
+    },
+    {
+      "time": "2020-05-10 04:15:50",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.6,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 04:16:47",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.6,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 04:17:44",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.6,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 04:18:41",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.6,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 04:19:38",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.6,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 04:20:35",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.6,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 04:21:32",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.6,
+      "humidity": 10
+    },
+    {
+      "time": "2020-05-10 04:22:29",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.7,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 04:23:26",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.7,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 04:24:23",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.7,
+      "humidity": 10
+    },
+    {
+      "time": "2020-05-10 04:25:20",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.7,
+      "humidity": 10
+    },
+    {
+      "time": "2020-05-10 04:26:17",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.7,
+      "humidity": 10
+    },
+    {
+      "time": "2020-05-10 04:27:14",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.7,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 04:28:11",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.7,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 04:29:08",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.7,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 04:30:05",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.7,
+      "humidity": 10
+    },
+    {
+      "time": "2020-05-10 04:31:02",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.7,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 04:31:59",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.7,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 04:32:56",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.7,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 04:33:53",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.7,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 04:34:50",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.7,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 04:35:47",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.7,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 04:36:44",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.8,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 04:37:41",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.8,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 04:38:38",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.8,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 04:39:35",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.8,
+      "humidity": 10
+    },
+    {
+      "time": "2020-05-10 04:40:32",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.9,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 04:41:29",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.9,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 04:42:26",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.9,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 04:43:23",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.9,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 04:44:20",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.9,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 04:45:17",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.9,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 04:46:14",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.9,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 04:47:11",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.9,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 04:48:08",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.9,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 04:49:05",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.9,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 04:50:02",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.9,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 04:50:59",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.9,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 04:51:56",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.9,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 04:52:53",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.9,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 04:53:50",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.9,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 04:54:47",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.9,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 04:55:44",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.9,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 04:56:41",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.9,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 04:57:38",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.9,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 04:58:35",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.9,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 04:59:32",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.9,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 05:00:29",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.9,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 05:01:26",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.9,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 05:02:23",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.9,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 05:03:20",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.9,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 05:04:17",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.9,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 05:05:14",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.9,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 05:06:11",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.9,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 05:07:08",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.9,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 05:08:05",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.9,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 05:09:02",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.9,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 05:09:59",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.9,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 05:10:56",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.9,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 05:11:53",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.9,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 05:12:50",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.9,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 05:13:47",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.9,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 05:14:44",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.9,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 05:15:41",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.9,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 05:16:38",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.9,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 05:17:35",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.9,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 05:18:32",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.9,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 05:19:29",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.9,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 05:20:26",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.9,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 05:21:23",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 05:22:20",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 05:23:17",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 05:24:14",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 15.9,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 05:25:11",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 05:26:08",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 05:27:05",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 05:28:02",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 05:28:59",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 05:29:56",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 05:30:53",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 05:31:50",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 05:32:47",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 05:33:44",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.1,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 05:34:41",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.1,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 05:35:38",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.1,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 05:36:35",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.1,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 05:37:32",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.1,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 05:38:29",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.1,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 05:39:26",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.1,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 05:40:23",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.2,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 05:41:20",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.2,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 05:42:17",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.2,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 05:43:14",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.2,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 05:44:11",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.2,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 05:45:08",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.3,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 05:46:05",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.3,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 05:47:02",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.3,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 05:47:59",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.3,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 05:48:56",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.3,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 05:49:53",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.4,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 05:50:50",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.4,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 05:51:47",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.4,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 05:52:44",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.4,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 05:53:41",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.4,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 05:54:38",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.4,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 05:55:34",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.4,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 05:56:32",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.4,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 05:57:29",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.4,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 05:58:26",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.5,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 05:59:23",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.5,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 06:00:20",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.5,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 06:01:17",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.5,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 06:02:14",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.5,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 06:03:11",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.5,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 06:04:08",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.6,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 06:05:05",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.6,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 06:06:02",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.6,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 06:06:59",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.6,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 06:07:56",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.6,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 06:08:53",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.7,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 06:09:50",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.7,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 06:10:47",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.7,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 06:11:44",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.7,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 06:12:41",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.7,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 06:13:38",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.7,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 06:14:35",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.7,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 06:15:32",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.8,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 06:16:29",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.8,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 06:17:26",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.8,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 06:18:23",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.8,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 06:19:20",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.8,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 06:20:17",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.9,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 06:21:14",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.9,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 06:22:11",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.9,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 06:23:08",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.9,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 06:24:05",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 16.9,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 06:25:02",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 17,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 06:25:59",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 17,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 06:26:56",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 17,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 06:27:53",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 17,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 06:28:50",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 17,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 06:29:47",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 17.1,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 06:30:44",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 17.1,
+      "humidity": 8
+    },
+    {
+      "time": "2020-05-10 06:31:41",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 17.1,
+      "humidity": 8
+    },
+    {
+      "time": "2020-05-10 06:32:38",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 17.1,
+      "humidity": 8
+    },
+    {
+      "time": "2020-05-10 06:33:35",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 17.1,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 06:34:32",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 17.2,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 06:35:29",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 17.2,
+      "humidity": 8
+    },
+    {
+      "time": "2020-05-10 06:36:26",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 17.2,
+      "humidity": 8
+    },
+    {
+      "time": "2020-05-10 06:37:23",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 17.2,
+      "humidity": 8
+    },
+    {
+      "time": "2020-05-10 06:38:20",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 17.2,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 06:39:17",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 17.3,
+      "humidity": 8
+    },
+    {
+      "time": "2020-05-10 06:40:14",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 17.3,
+      "humidity": 8
+    },
+    {
+      "time": "2020-05-10 06:41:11",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 17.3,
+      "humidity": 8
+    },
+    {
+      "time": "2020-05-10 06:42:08",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 17.3,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 06:43:05",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 17.4,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 06:44:02",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 17.4,
+      "humidity": 8
+    },
+    {
+      "time": "2020-05-10 06:44:59",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 17.4,
+      "humidity": 8
+    },
+    {
+      "time": "2020-05-10 06:45:56",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 17.4,
+      "humidity": 8
+    },
+    {
+      "time": "2020-05-10 06:46:53",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 17.4,
+      "humidity": 8
+    },
+    {
+      "time": "2020-05-10 06:47:50",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 17.5,
+      "humidity": 8
+    },
+    {
+      "time": "2020-05-10 06:48:47",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 17.5,
+      "humidity": 8
+    },
+    {
+      "time": "2020-05-10 06:49:44",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 17.5,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 06:50:41",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 17.5,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 06:51:38",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 17.5,
+      "humidity": 8
+    },
+    {
+      "time": "2020-05-10 06:52:35",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 17.6,
+      "humidity": 8
+    },
+    {
+      "time": "2020-05-10 06:53:32",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 17.6,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 06:54:29",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 17.6,
+      "humidity": 8
+    },
+    {
+      "time": "2020-05-10 06:55:26",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 17.6,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 06:56:23",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 17.7,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 06:57:20",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 17.7,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 06:58:17",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 17.7,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 06:59:14",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 17.7,
+      "humidity": 8
+    },
+    {
+      "time": "2020-05-10 07:00:11",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 17.8,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 07:01:08",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 17.8,
+      "humidity": 8
+    },
+    {
+      "time": "2020-05-10 07:02:05",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 17.8,
+      "humidity": 9
+    },
+    {
+      "time": "2020-05-10 07:03:02",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 17.8,
+      "humidity": 8
+    },
+    {
+      "time": "2020-05-10 07:03:59",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 17.9,
+      "humidity": 8
+    },
+    {
+      "time": "2020-05-10 07:04:56",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 17.9,
+      "humidity": 8
+    },
+    {
+      "time": "2020-05-10 07:05:53",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 17.9,
+      "humidity": 8
+    },
+    {
+      "time": "2020-05-10 07:06:50",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 17.9,
+      "humidity": 8
+    },
+    {
+      "time": "2020-05-10 07:07:47",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 18,
+      "humidity": 8
+    },
+    {
+      "time": "2020-05-10 07:08:44",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 18,
+      "humidity": 8
+    },
+    {
+      "time": "2020-05-10 07:09:41",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 18,
+      "humidity": 8
+    },
+    {
+      "time": "2020-05-10 07:10:38",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 18,
+      "humidity": 8
+    },
+    {
+      "time": "2020-05-10 07:11:35",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 18.1,
+      "humidity": 8
+    },
+    {
+      "time": "2020-05-10 07:12:32",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 18.1,
+      "humidity": 8
+    },
+    {
+      "time": "2020-05-10 07:13:29",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 18.1,
+      "humidity": 8
+    },
+    {
+      "time": "2020-05-10 07:14:26",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 18.2,
+      "humidity": 8
+    },
+    {
+      "time": "2020-05-10 07:15:23",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 18.2,
+      "humidity": 8
+    },
+    {
+      "time": "2020-05-10 07:16:20",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 18.2,
+      "humidity": 8
+    },
+    {
+      "time": "2020-05-10 07:17:17",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 18.2,
+      "humidity": 8
+    },
+    {
+      "time": "2020-05-10 07:18:14",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 18.3,
+      "humidity": 8
+    },
+    {
+      "time": "2020-05-10 07:19:11",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 18.3,
+      "humidity": 8
+    },
+    {
+      "time": "2020-05-10 07:20:08",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 18.3,
+      "humidity": 8
+    },
+    {
+      "time": "2020-05-10 07:21:05",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 18.3,
+      "humidity": 8
+    },
+    {
+      "time": "2020-05-10 07:22:02",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 18.4,
+      "humidity": 8
+    },
+    {
+      "time": "2020-05-10 07:22:59",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 18.4,
+      "humidity": 8
+    },
+    {
+      "time": "2020-05-10 07:23:56",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 18.5,
+      "humidity": 8
+    },
+    {
+      "time": "2020-05-10 07:24:53",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 18.5,
+      "humidity": 8
+    },
+    {
+      "time": "2020-05-10 07:25:50",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 18.5,
+      "humidity": 8
+    },
+    {
+      "time": "2020-05-10 07:26:47",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 18.6,
+      "humidity": 8
+    },
+    {
+      "time": "2020-05-10 07:27:44",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 18.6,
+      "humidity": 8
+    },
+    {
+      "time": "2020-05-10 07:28:41",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 18.6,
+      "humidity": 8
+    },
+    {
+      "time": "2020-05-10 07:29:38",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 18.6,
+      "humidity": 8
+    },
+    {
+      "time": "2020-05-10 07:30:35",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 18.6,
+      "humidity": 8
+    },
+    {
+      "time": "2020-05-10 07:31:32",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 18.7,
+      "humidity": 8
+    },
+    {
+      "time": "2020-05-10 07:32:29",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 18.7,
+      "humidity": 8
+    },
+    {
+      "time": "2020-05-10 07:33:26",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 18.8,
+      "humidity": 8
+    },
+    {
+      "time": "2020-05-10 07:34:23",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 18.8,
+      "humidity": 8
+    },
+    {
+      "time": "2020-05-10 07:35:20",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 18.8,
+      "humidity": 8
+    },
+    {
+      "time": "2020-05-10 07:36:17",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 18.9,
+      "humidity": 8
+    },
+    {
+      "time": "2020-05-10 07:37:14",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 18.9,
+      "humidity": 8
+    },
+    {
+      "time": "2020-05-10 07:38:11",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 18.9,
+      "humidity": 8
+    },
+    {
+      "time": "2020-05-10 07:39:08",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 18.9,
+      "humidity": 8
+    },
+    {
+      "time": "2020-05-10 07:40:05",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 19,
+      "humidity": 8
+    },
+    {
+      "time": "2020-05-10 07:41:02",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 19,
+      "humidity": 8
+    },
+    {
+      "time": "2020-05-10 07:41:59",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 19.1,
+      "humidity": 7
+    },
+    {
+      "time": "2020-05-10 07:42:56",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 19.1,
+      "humidity": 7
+    },
+    {
+      "time": "2020-05-10 07:43:53",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 19.1,
+      "humidity": 7
+    },
+    {
+      "time": "2020-05-10 07:44:50",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 19.2,
+      "humidity": 7
+    },
+    {
+      "time": "2020-05-10 07:45:47",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 19.2,
+      "humidity": 7
+    },
+    {
+      "time": "2020-05-10 07:46:44",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 19.2,
+      "humidity": 7
+    },
+    {
+      "time": "2020-05-10 07:47:41",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 19.2,
+      "humidity": 7
+    },
+    {
+      "time": "2020-05-10 07:48:38",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 19.3,
+      "humidity": 8
+    },
+    {
+      "time": "2020-05-10 07:49:35",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 19.3,
+      "humidity": 7
+    },
+    {
+      "time": "2020-05-10 07:50:32",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 19.3,
+      "humidity": 7
+    },
+    {
+      "time": "2020-05-10 07:51:29",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 19.4,
+      "humidity": 7
+    },
+    {
+      "time": "2020-05-10 07:52:26",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 19.4,
+      "humidity": 7
+    },
+    {
+      "time": "2020-05-10 07:53:23",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 19.5,
+      "humidity": 8
+    },
+    {
+      "time": "2020-05-10 07:54:20",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 19.5,
+      "humidity": 7
+    },
+    {
+      "time": "2020-05-10 07:55:17",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 19.6,
+      "humidity": 7
+    },
+    {
+      "time": "2020-05-10 07:56:14",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 19.6,
+      "humidity": 7
+    },
+    {
+      "time": "2020-05-10 07:57:11",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 19.6,
+      "humidity": 7
+    },
+    {
+      "time": "2020-05-10 07:58:08",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 19.6,
+      "humidity": 7
+    },
+    {
+      "time": "2020-05-10 07:59:05",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 19.7,
+      "humidity": 7
+    },
+    {
+      "time": "2020-05-10 08:00:02",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 19.7,
+      "humidity": 7
+    },
+    {
+      "time": "2020-05-10 08:00:59",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 19.8,
+      "humidity": 8
+    },
+    {
+      "time": "2020-05-10 08:01:56",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 19.8,
+      "humidity": 7
+    },
+    {
+      "time": "2020-05-10 08:02:53",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 19.9,
+      "humidity": 7
+    },
+    {
+      "time": "2020-05-10 08:03:50",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 19.9,
+      "humidity": 7
+    },
+    {
+      "time": "2020-05-10 08:04:47",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 20,
+      "humidity": 7
+    },
+    {
+      "time": "2020-05-10 08:05:44",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 20,
+      "humidity": 7
+    },
+    {
+      "time": "2020-05-10 08:06:41",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 20,
+      "humidity": 7
+    },
+    {
+      "time": "2020-05-10 08:07:38",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 20.1,
+      "humidity": 7
+    },
+    {
+      "time": "2020-05-10 08:08:35",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 20.1,
+      "humidity": 7
+    },
+    {
+      "time": "2020-05-10 08:09:32",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 20.2,
+      "humidity": 7
+    },
+    {
+      "time": "2020-05-10 08:10:29",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 20.2,
+      "humidity": 7
+    },
+    {
+      "time": "2020-05-10 08:11:26",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 20.3,
+      "humidity": 7
+    },
+    {
+      "time": "2020-05-10 08:12:23",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 20.3,
+      "humidity": 7
+    },
+    {
+      "time": "2020-05-10 08:13:20",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 20.4,
+      "humidity": 7
+    },
+    {
+      "time": "2020-05-10 08:14:17",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 20.4,
+      "humidity": 7
+    },
+    {
+      "time": "2020-05-10 08:15:14",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 20.5,
+      "humidity": 7
+    },
+    {
+      "time": "2020-05-10 08:16:11",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 20.5,
+      "humidity": 7
+    },
+    {
+      "time": "2020-05-10 08:17:08",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 20.6,
+      "humidity": 7
+    },
+    {
+      "time": "2020-05-10 08:18:04",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 20.7,
+      "humidity": 7
+    },
+    {
+      "time": "2020-05-10 08:19:02",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 20.7,
+      "humidity": 7
+    },
+    {
+      "time": "2020-05-10 08:19:59",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 20.7,
+      "humidity": 7
+    },
+    {
+      "time": "2020-05-10 08:20:56",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 20.8,
+      "humidity": 7
+    },
+    {
+      "time": "2020-05-10 08:21:53",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 20.8,
+      "humidity": 7
+    },
+    {
+      "time": "2020-05-10 08:22:50",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 20.9,
+      "humidity": 7
+    },
+    {
+      "time": "2020-05-10 08:23:47",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 20.9,
+      "humidity": 7
+    },
+    {
+      "time": "2020-05-10 08:24:44",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 21,
+      "humidity": 7
+    },
+    {
+      "time": "2020-05-10 08:25:41",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 21,
+      "humidity": 7
+    },
+    {
+      "time": "2020-05-10 08:26:38",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 21.1,
+      "humidity": 6
+    },
+    {
+      "time": "2020-05-10 08:27:35",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 21.1,
+      "humidity": 7
+    },
+    {
+      "time": "2020-05-10 08:28:32",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 21.2,
+      "humidity": 6
+    },
+    {
+      "time": "2020-05-10 08:29:29",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 21.2,
+      "humidity": 6
+    },
+    {
+      "time": "2020-05-10 08:30:26",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 21.3,
+      "humidity": 6
+    },
+    {
+      "time": "2020-05-10 08:31:23",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 21.4,
+      "humidity": 7
+    },
+    {
+      "time": "2020-05-10 08:32:20",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 21.4,
+      "humidity": 6
+    },
+    {
+      "time": "2020-05-10 08:33:17",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 21.5,
+      "humidity": 6
+    },
+    {
+      "time": "2020-05-10 08:34:14",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 21.5,
+      "humidity": 7
+    },
+    {
+      "time": "2020-05-10 08:35:11",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 21.6,
+      "humidity": 6
+    },
+    {
+      "time": "2020-05-10 08:36:08",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 21.6,
+      "humidity": 6
+    },
+    {
+      "time": "2020-05-10 08:37:05",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 21.7,
+      "humidity": 6
+    },
+    {
+      "time": "2020-05-10 08:38:02",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 21.7,
+      "humidity": 6
+    },
+    {
+      "time": "2020-05-10 08:38:59",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 21.8,
+      "humidity": 6
+    },
+    {
+      "time": "2020-05-10 08:39:56",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 21.8,
+      "humidity": 6
+    },
+    {
+      "time": "2020-05-10 08:40:53",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 21.9,
+      "humidity": 6
+    },
+    {
+      "time": "2020-05-10 08:41:50",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 21.9,
+      "humidity": 6
+    },
+    {
+      "time": "2020-05-10 08:42:47",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 21.9,
+      "humidity": 6
+    },
+    {
+      "time": "2020-05-10 08:43:44",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 22,
+      "humidity": 6
+    },
+    {
+      "time": "2020-05-10 08:44:41",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 22,
+      "humidity": 6
+    },
+    {
+      "time": "2020-05-10 08:45:38",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 22.1,
+      "humidity": 6
+    },
+    {
+      "time": "2020-05-10 08:46:35",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 22.1,
+      "humidity": 6
+    },
+    {
+      "time": "2020-05-10 08:47:32",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 22.2,
+      "humidity": 6
+    },
+    {
+      "time": "2020-05-10 08:48:29",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 22.2,
+      "humidity": 6
+    },
+    {
+      "time": "2020-05-10 08:49:26",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 22.2,
+      "humidity": 6
+    },
+    {
+      "time": "2020-05-10 08:50:23",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 22.2,
+      "humidity": 6
+    },
+    {
+      "time": "2020-05-10 08:51:20",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 22.2,
+      "humidity": 6
+    },
+    {
+      "time": "2020-05-10 08:52:17",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 22.3,
+      "humidity": 6
+    },
+    {
+      "time": "2020-05-10 08:53:14",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 22.3,
+      "humidity": 6
+    },
+    {
+      "time": "2020-05-10 08:54:11",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 22.3,
+      "humidity": 6
+    },
+    {
+      "time": "2020-05-10 08:55:08",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 22.4,
+      "humidity": 6
+    },
+    {
+      "time": "2020-05-10 08:56:05",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 22.4,
+      "humidity": 6
+    },
+    {
+      "time": "2020-05-10 08:57:02",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 22.5,
+      "humidity": 6
+    },
+    {
+      "time": "2020-05-10 08:57:59",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 22.6,
+      "humidity": 6
+    },
+    {
+      "time": "2020-05-10 08:58:56",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 22.6,
+      "humidity": 6
+    },
+    {
+      "time": "2020-05-10 08:59:53",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 22.6,
+      "humidity": 6
+    },
+    {
+      "time": "2020-05-10 09:00:50",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 22.7,
+      "humidity": 6
+    },
+    {
+      "time": "2020-05-10 09:01:47",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 22.8,
+      "humidity": 6
+    },
+    {
+      "time": "2020-05-10 09:02:44",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 22.8,
+      "humidity": 6
+    },
+    {
+      "time": "2020-05-10 09:03:41",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 22.9,
+      "humidity": 6
+    },
+    {
+      "time": "2020-05-10 09:04:38",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 22.9,
+      "humidity": 6
+    },
+    {
+      "time": "2020-05-10 09:05:35",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 22.9,
+      "humidity": 6
+    },
+    {
+      "time": "2020-05-10 09:06:32",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 23,
+      "humidity": 6
+    },
+    {
+      "time": "2020-05-10 09:07:29",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 23,
+      "humidity": 6
+    },
+    {
+      "time": "2020-05-10 09:08:26",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 23,
+      "humidity": 6
+    },
+    {
+      "time": "2020-05-10 09:09:23",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 23.1,
+      "humidity": 5
+    },
+    {
+      "time": "2020-05-10 09:10:20",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 23.1,
+      "humidity": 5
+    },
+    {
+      "time": "2020-05-10 09:11:17",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 23.2,
+      "humidity": 6
+    },
+    {
+      "time": "2020-05-10 09:12:14",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 23.2,
+      "humidity": 5
+    },
+    {
+      "time": "2020-05-10 09:13:11",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 23.3,
+      "humidity": 5
+    },
+    {
+      "time": "2020-05-10 09:14:08",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 23.3,
+      "humidity": 5
+    },
+    {
+      "time": "2020-05-10 09:15:05",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 23.4,
+      "humidity": 5
+    },
+    {
+      "time": "2020-05-10 09:16:02",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 23.4,
+      "humidity": 5
+    },
+    {
+      "time": "2020-05-10 09:16:59",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 23.5,
+      "humidity": 5
+    },
+    {
+      "time": "2020-05-10 09:17:56",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 23.5,
+      "humidity": 5
+    },
+    {
+      "time": "2020-05-10 09:18:53",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 23.6,
+      "humidity": 6
+    },
+    {
+      "time": "2020-05-10 09:19:50",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 23.6,
+      "humidity": 6
+    },
+    {
+      "time": "2020-05-10 09:20:47",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 23.7,
+      "humidity": 5
+    },
+    {
+      "time": "2020-05-10 09:21:44",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 23.7,
+      "humidity": 5
+    },
+    {
+      "time": "2020-05-10 09:22:41",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 23.8,
+      "humidity": 5
+    },
+    {
+      "time": "2020-05-10 09:23:37",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 23.8,
+      "humidity": 5
+    },
+    {
+      "time": "2020-05-10 09:24:34",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 23.9,
+      "humidity": 5
+    },
+    {
+      "time": "2020-05-10 09:25:31",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 23.9,
+      "humidity": 5
+    },
+    {
+      "time": "2020-05-10 09:26:28",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 23.9,
+      "humidity": 5
+    },
+    {
+      "time": "2020-05-10 09:27:25",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 24,
+      "humidity": 5
+    },
+    {
+      "time": "2020-05-10 09:28:22",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 24,
+      "humidity": 5
+    },
+    {
+      "time": "2020-05-10 09:29:19",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 24.1,
+      "humidity": 5
+    },
+    {
+      "time": "2020-05-10 09:30:16",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 24.1,
+      "humidity": 5
+    },
+    {
+      "time": "2020-05-10 09:31:13",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 24.2,
+      "humidity": 5
+    },
+    {
+      "time": "2020-05-10 09:32:10",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 24.2,
+      "humidity": 5
+    },
+    {
+      "time": "2020-05-10 09:33:07",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 24.3,
+      "humidity": 5
+    },
+    {
+      "time": "2020-05-10 09:34:04",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 24.3,
+      "humidity": 5
+    },
+    {
+      "time": "2020-05-10 09:35:01",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 24.4,
+      "humidity": 5
+    },
+    {
+      "time": "2020-05-10 09:35:58",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 24.4,
+      "humidity": 5
+    },
+    {
+      "time": "2020-05-10 09:36:55",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 24.4,
+      "humidity": 5
+    },
+    {
+      "time": "2020-05-10 09:37:52",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 24.5,
+      "humidity": 5
+    },
+    {
+      "time": "2020-05-10 09:38:49",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 24.5,
+      "humidity": 5
+    },
+    {
+      "time": "2020-05-10 09:39:46",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 24.6,
+      "humidity": 5
+    },
+    {
+      "time": "2020-05-10 09:40:43",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 24.6,
+      "humidity": 5
+    },
+    {
+      "time": "2020-05-10 09:41:40",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 24.7,
+      "humidity": 5
+    },
+    {
+      "time": "2020-05-10 09:42:37",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 24.7,
+      "humidity": 5
+    },
+    {
+      "time": "2020-05-10 09:43:34",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 24.7,
+      "humidity": 5
+    },
+    {
+      "time": "2020-05-10 09:44:31",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 24.8,
+      "humidity": 5
+    },
+    {
+      "time": "2020-05-10 09:45:28",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 24.8,
+      "humidity": 5
+    },
+    {
+      "time": "2020-05-10 09:46:25",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 24.9,
+      "humidity": 5
+    },
+    {
+      "time": "2020-05-10 09:47:22",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 24.9,
+      "humidity": 5
+    },
+    {
+      "time": "2020-05-10 09:48:19",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 24.9,
+      "humidity": 5
+    },
+    {
+      "time": "2020-05-10 09:49:16",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 25,
+      "humidity": 5
+    },
+    {
+      "time": "2020-05-10 09:50:13",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 25,
+      "humidity": 5
+    },
+    {
+      "time": "2020-05-10 09:51:10",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 25,
+      "humidity": 5
+    },
+    {
+      "time": "2020-05-10 09:52:07",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 25.1,
+      "humidity": 5
+    },
+    {
+      "time": "2020-05-10 09:53:04",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 25.1,
+      "humidity": 5
+    },
+    {
+      "time": "2020-05-10 09:54:01",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 25.2,
+      "humidity": 5
+    },
+    {
+      "time": "2020-05-10 09:54:58",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 25.2,
+      "humidity": 4
+    },
+    {
+      "time": "2020-05-10 09:55:55",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 25.2,
+      "humidity": 4
+    },
+    {
+      "time": "2020-05-10 09:56:52",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 25.3,
+      "humidity": 4
+    },
+    {
+      "time": "2020-05-10 09:57:49",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 25.3,
+      "humidity": 4
+    },
+    {
+      "time": "2020-05-10 09:58:46",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 25.3,
+      "humidity": 4
+    },
+    {
+      "time": "2020-05-10 09:59:43",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 25.4,
+      "humidity": 4
+    },
+    {
+      "time": "2020-05-10 10:00:40",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 25.4,
+      "humidity": 4
+    },
+    {
+      "time": "2020-05-10 10:01:37",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 25.5,
+      "humidity": 4
+    },
+    {
+      "time": "2020-05-10 10:02:34",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 25.5,
+      "humidity": 5
+    },
+    {
+      "time": "2020-05-10 10:03:31",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 25.5,
+      "humidity": 4
+    },
+    {
+      "time": "2020-05-10 10:04:28",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 25.5,
+      "humidity": 4
+    },
+    {
+      "time": "2020-05-10 10:08:16",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 25.7,
+      "humidity": 4
+    },
+    {
+      "time": "2020-05-10 10:09:13",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 25.7,
+      "humidity": 4
+    },
+    {
+      "time": "2020-05-10 10:10:10",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 25.7,
+      "humidity": 4
+    },
+    {
+      "time": "2020-05-10 10:11:07",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 25.7,
+      "humidity": 4
+    },
+    {
+      "time": "2020-05-10 10:12:04",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 25.8,
+      "humidity": 4
+    },
+    {
+      "time": "2020-05-10 10:13:01",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 25.8,
+      "humidity": 4
+    },
+    {
+      "time": "2020-05-10 10:13:58",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 25.8,
+      "humidity": 4
+    },
+    {
+      "time": "2020-05-10 10:14:55",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 25.9,
+      "humidity": 4
+    },
+    {
+      "time": "2020-05-10 10:15:52",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 25.9,
+      "humidity": 4
+    },
+    {
+      "time": "2020-05-10 10:16:49",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 25.9,
+      "humidity": 4
+    },
+    {
+      "time": "2020-05-10 10:17:46",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 26,
+      "humidity": 4
+    },
+    {
+      "time": "2020-05-10 10:18:43",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 26,
+      "humidity": 4
+    },
+    {
+      "time": "2020-05-10 10:19:40",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 26,
+      "humidity": 4
+    },
+    {
+      "time": "2020-05-10 10:20:37",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 26.1,
+      "humidity": 4
+    },
+    {
+      "time": "2020-05-10 10:21:34",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 26.1,
+      "humidity": 4
+    },
+    {
+      "time": "2020-05-10 10:22:31",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 26.2,
+      "humidity": 4
+    },
+    {
+      "time": "2020-05-10 10:23:28",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 26.2,
+      "humidity": 4
+    },
+    {
+      "time": "2020-05-10 10:24:25",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 26.2,
+      "humidity": 4
+    },
+    {
+      "time": "2020-05-10 10:25:22",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 26.3,
+      "humidity": 4
+    },
+    {
+      "time": "2020-05-10 10:26:19",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 26.3,
+      "humidity": 4
+    },
+    {
+      "time": "2020-05-10 10:27:16",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 26.3,
+      "humidity": 4
+    },
+    {
+      "time": "2020-05-10 10:28:13",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 26.4,
+      "humidity": 4
+    },
+    {
+      "time": "2020-05-10 10:29:10",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 26.4,
+      "humidity": 4
+    },
+    {
+      "time": "2020-05-10 10:30:07",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 26.5,
+      "humidity": 4
+    },
+    {
+      "time": "2020-05-10 10:31:04",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 26.5,
+      "humidity": 4
+    },
+    {
+      "time": "2020-05-10 10:32:01",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 26.6,
+      "humidity": 4
+    },
+    {
+      "time": "2020-05-10 10:36:02",
+      "brand": "OS",
+      "model": "Oregon-v1",
+      "id": 14,
+      "channel": 1,
+      "battery_ok": 0,
+      "temperature_C": 13.4,
+      "mic": "CHECKSUM"
+    },
+    {
+      "time": "2020-05-10 10:36:02",
+      "brand": "OS",
+      "model": "Oregon-v1",
+      "id": 14,
+      "channel": 1,
+      "battery_ok": 0,
+      "temperature_C": 13.4,
+      "mic": "CHECKSUM"
+    },
+    {
+      "time": "2020-05-10 10:36:32",
+      "brand": "OS",
+      "model": "Oregon-v1",
+      "id": 14,
+      "channel": 1,
+      "battery_ok": 0,
+      "temperature_C": 13,
+      "mic": "CHECKSUM"
+    },
+    {
+      "time": "2020-05-10 10:36:32",
+      "brand": "OS",
+      "model": "Oregon-v1",
+      "id": 14,
+      "channel": 1,
+      "battery_ok": 0,
+      "temperature_C": 13,
+      "mic": "CHECKSUM"
+    },
+    {
+      "time": "2020-05-10 10:36:46",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 26.7,
+      "humidity": 4
+    },
+    {
+      "time": "2020-05-10 10:36:50",
+      "model": "Solight-TE44",
+      "id": 139,
+      "channel": 1,
+      "temperature_C": 16.9,
+      "mic": "CRC"
+    },
+    {
+      "time": "2020-05-10 10:37:02",
+      "brand": "OS",
+      "model": "Oregon-v1",
+      "id": 14,
+      "channel": 1,
+      "battery_ok": 0,
+      "temperature_C": 13.5,
+      "mic": "CHECKSUM"
+    },
+    {
+      "time": "2020-05-10 10:37:02",
+      "brand": "OS",
+      "model": "Oregon-v1",
+      "id": 14,
+      "channel": 1,
+      "battery_ok": 0,
+      "temperature_C": 13.5,
+      "mic": "CHECKSUM"
+    },
+    {
+      "time": "2020-05-10 10:37:24",
+      "model": "Rubicson-Temperature",
+      "id": 106,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 12.8,
+      "mic": "CRC"
+    },
+    {
+      "time": "2020-05-10 10:37:32",
+      "brand": "OS",
+      "model": "Oregon-v1",
+      "id": 14,
+      "channel": 1,
+      "battery_ok": 0,
+      "temperature_C": 14.8,
+      "mic": "CHECKSUM"
+    },
+    {
+      "time": "2020-05-10 10:37:32",
+      "brand": "OS",
+      "model": "Oregon-v1",
+      "id": 14,
+      "channel": 1,
+      "battery_ok": 0,
+      "temperature_C": 14.8,
+      "mic": "CHECKSUM"
+    },
+    {
+      "time": "2020-05-10 10:37:43",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 26.8,
+      "humidity": 4
+    },
+    {
+      "time": "2020-05-10 10:37:47",
+      "model": "Solight-TE44",
+      "id": 139,
+      "channel": 1,
+      "temperature_C": 16.9,
+      "mic": "CRC"
+    },
+    {
+      "time": "2020-05-10 10:38:02",
+      "brand": "OS",
+      "model": "Oregon-v1",
+      "id": 14,
+      "channel": 1,
+      "battery_ok": 0,
+      "temperature_C": 14.8,
+      "mic": "CHECKSUM"
+    },
+    {
+      "time": "2020-05-10 10:38:02",
+      "brand": "OS",
+      "model": "Oregon-v1",
+      "id": 14,
+      "channel": 1,
+      "battery_ok": 0,
+      "temperature_C": 14.8,
+      "mic": "CHECKSUM"
+    },
+    {
+      "time": "2020-05-10 10:38:22",
+      "model": "Nexus-TH",
+      "id": 106,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 12.9,
+      "humidity": 137
+    },
+    {
+      "time": "2020-05-10 10:38:32",
+      "brand": "OS",
+      "model": "Oregon-v1",
+      "id": 14,
+      "channel": 1,
+      "battery_ok": 0,
+      "temperature_C": 14.6,
+      "mic": "CHECKSUM"
+    },
+    {
+      "time": "2020-05-10 10:38:32",
+      "brand": "OS",
+      "model": "Oregon-v1",
+      "id": 14,
+      "channel": 1,
+      "battery_ok": 0,
+      "temperature_C": 14.6,
+      "mic": "CHECKSUM"
+    },
+    {
+      "time": "2020-05-10 10:38:40",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 26.8,
+      "humidity": 4
+    },
+    {
+      "time": "2020-05-10 10:38:44",
+      "model": "Solight-TE44",
+      "id": 139,
+      "channel": 1,
+      "temperature_C": 17,
+      "mic": "CRC"
+    },
+    {
+      "time": "2020-05-10 10:39:02",
+      "brand": "OS",
+      "model": "Oregon-v1",
+      "id": 14,
+      "channel": 1,
+      "battery_ok": 0,
+      "temperature_C": 15,
+      "mic": "CHECKSUM"
+    },
+    {
+      "time": "2020-05-10 10:39:02",
+      "brand": "OS",
+      "model": "Oregon-v1",
+      "id": 14,
+      "channel": 1,
+      "battery_ok": 0,
+      "temperature_C": 15,
+      "mic": "CHECKSUM"
+    },
+    {
+      "time": "2020-05-10 10:39:32",
+      "brand": "OS",
+      "model": "Oregon-v1",
+      "id": 14,
+      "channel": 1,
+      "battery_ok": 0,
+      "temperature_C": 15.9,
+      "mic": "CHECKSUM"
+    },
+    {
+      "time": "2020-05-10 10:58:37",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 27.8,
+      "humidity": 3
+    },
+    {
+      "time": "2020-05-10 10:58:41",
+      "model": "Solight-TE44",
+      "id": 139,
+      "channel": 1,
+      "temperature_C": 17.2,
+      "mic": "CRC"
+    },
+    {
+      "time": "2020-05-10 10:59:34",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 27.8,
+      "humidity": 3
+    },
+    {
+      "time": "2020-05-10 10:59:38",
+      "model": "Solight-TE44",
+      "id": 139,
+      "channel": 1,
+      "temperature_C": 17.2,
+      "mic": "CRC"
+    },
+    {
+      "time": "2020-05-10 11:00:31",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 27.9,
+      "humidity": 3
+    },
+    {
+      "time": "2020-05-10 11:00:35",
+      "model": "Solight-TE44",
+      "id": 139,
+      "channel": 1,
+      "temperature_C": 17.2,
+      "mic": "CRC"
+    },
+    {
+      "time": "2020-05-10 11:01:28",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 27.9,
+      "humidity": 3
+    },
+    {
+      "time": "2020-05-10 11:02:25",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 28,
+      "humidity": 3
+    },
+    {
+      "time": "2020-05-10 11:02:29",
+      "model": "Solight-TE44",
+      "id": 139,
+      "channel": 1,
+      "temperature_C": 17,
+      "mic": "CRC"
+    },
+    {
+      "time": "2020-05-10 11:03:22",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 28,
+      "humidity": 3
+    },
+    {
+      "time": "2020-05-10 11:03:26",
+      "model": "Solight-TE44",
+      "id": 139,
+      "channel": 1,
+      "temperature_C": 17,
+      "mic": "CRC"
+    },
+    {
+      "time": "2020-05-10 11:03:38",
+      "model": "Toyota",
+      "type": "TPMS",
+      "id": "d29512ff",
+      "status": 130,
+      "pressure_PSI": 37,
+      "temperature_C": 17,
+      "mic": "CRC"
+    },
+    {
+      "time": "2020-05-10 11:03:38",
+      "model": "Toyota",
+      "type": "TPMS",
+      "id": "d29512ff",
+      "status": 131,
+      "pressure_PSI": 37,
+      "temperature_C": 17,
+      "mic": "CRC"
+    },
+    {
+      "time": "2020-05-10 11:03:39",
+      "model": "Toyota",
+      "type": "TPMS",
+      "id": "d2951326",
+      "status": 130,
+      "pressure_PSI": 37.5,
+      "temperature_C": 17,
+      "mic": "CRC"
+    },
+    {
+      "time": "2020-05-10 11:03:39",
+      "model": "Toyota",
+      "type": "TPMS",
+      "id": "d2951326",
+      "status": 131,
+      "pressure_PSI": 37.5,
+      "temperature_C": 17,
+      "mic": "CRC"
+    },
+    {
+      "time": "2020-05-10 14:25:43",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 29.1,
+      "humidity": 3
+    },
+    {
+      "time": "2020-05-10 14:25:47",
+      "model": "Solight-TE44",
+      "id": 139,
+      "channel": 1,
+      "temperature_C": 16.4,
+      "mic": "CRC"
+    },
+    {
+      "time": "2020-05-10 14:26:40",
+      "model": "Nexus-TH",
+      "id": 188,
+      "channel": 1,
+      "battery_ok": 1,
+      "temperature_C": 29,
+      "humidity": 3
+    },
+    {
+      "time": "2020-05-10 14:26:44",
+      "model": "Solight-TE44",
+      "id": 139,
+      "channel": 1,
+      "temperature_C": 16.4,
+      "mic": "CRC"
+    }
+  ]
+}
