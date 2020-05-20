@@ -29,12 +29,12 @@ mongoose.connection.on("error", err => {
   console.error("Unable to connect to Mongo via Mongoose", err);
 });
 
-const Temp = mongoose.model("Temp", TempSchema);
+const Temp = mongoose.model<ITempModel>("Temp", TempSchema, "Temp");
 
 client.on("connect", () => {
   client.subscribe("home/rtl_433", function(err) {
     if (!err) {
-      console.log("connected");
+      console.log("connected to rtl_433");
     } else {
       console.log(err);
     }
@@ -43,8 +43,8 @@ client.on("connect", () => {
 
 client.on("message", (topic, message: string) => {
   let tempJson = JSON.parse(message);
-  console.log(tempJson);
-  const temp = new Temp();
+  const temp = new Temp(tempJson);
+  temp.save();
 });
 
 const app = express();
@@ -58,11 +58,41 @@ app.listen(port, err => {
 });
 
 app.use("/", (req, res) => {
-  Temp.find({}, (err, result) => {
-    if (err) {
-      res.send(err);
-    } else {
-      res.send(result);
-    }
-  });
+  Temp.find()
+    .lean()
+    .exec((err, result) => {
+      if (err) {
+        res.send(err);
+      } else {
+        let resArr = [{}];
+        let oldDate = "";
+        let date = "";
+        let max = -Infinity;
+        let min = Infinity;
+        let tempC = 0;
+        result.forEach(temp => {
+          if (typeof temp.time !== "undefined") {
+            date = temp.time.split(" ")[0];
+            tempC = temp.temperature_C;
+            if (oldDate === "") {
+              oldDate = date;
+            }
+            if (tempC > max) {
+              max = tempC;
+            }
+            if (tempC < min) {
+              min = tempC;
+            }
+            if (oldDate.localeCompare(date) !== 0) {
+              resArr.push({ date: date, max: max, min: min });
+              oldDate = date;
+              max = -Infinity;
+              min = Infinity;
+            }
+          }
+        });
+
+        res.send(resArr);
+      }
+    });
 });
