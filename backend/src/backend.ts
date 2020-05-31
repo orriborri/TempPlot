@@ -2,6 +2,7 @@ import express from "express";
 import { connect } from "mqtt";
 import fs from "fs";
 import mongoose from "mongoose";
+import cors from "cors";
 
 interface ITempModel extends mongoose.Document {
   time: string;
@@ -43,12 +44,15 @@ client.on("connect", () => {
 
 client.on("message", (topic, message: string) => {
   let tempJson = JSON.parse(message);
-  const temp = new Temp(tempJson);
-  temp.save();
+  if (tempJson["id"] === 188) {
+    console.log(tempJson);
+    const temp = new Temp(tempJson);
+    temp.save();
+  }
 });
 
 const app = express();
-const port = 3000;
+const port = 9000;
 
 app.listen(port, err => {
   if (err) {
@@ -56,43 +60,10 @@ app.listen(port, err => {
   }
   return console.log(`server is listening on ${port}`);
 });
+app.use(cors());
 
 app.use("/", (req, res) => {
-  Temp.find()
-    .lean()
-    .exec((err, result) => {
-      if (err) {
-        res.send(err);
-      } else {
-        let resArr = [{}];
-        let oldDate = "";
-        let date = "";
-        let max = -Infinity;
-        let min = Infinity;
-        let tempC = 0;
-        result.forEach(temp => {
-          if (typeof temp.time !== "undefined") {
-            date = temp.time.split(" ")[0];
-            tempC = temp.temperature_C;
-            if (oldDate === "") {
-              oldDate = date;
-            }
-            if (tempC > max) {
-              max = tempC;
-            }
-            if (tempC < min) {
-              min = tempC;
-            }
-            if (oldDate.localeCompare(date) !== 0) {
-              resArr.push({ date: date, max: max, min: min });
-              oldDate = date;
-              max = -Infinity;
-              min = Infinity;
-            }
-          }
-        });
-
-        res.send(resArr);
-      }
-    });
+  Temp.find({}, (err, found) => {
+    res.send(found);
+  });
 });
