@@ -9,7 +9,7 @@
     "@types/mongoose": "^5.7.20",
     "cors": "^2.8.5",
     "express": "^4.17.1",
-    "mongoose": "^4.0.0",
+    "mongoose": "^4.13.21",
     "mqtt": "^4.0.1"
   },
   "devDependencies": {
