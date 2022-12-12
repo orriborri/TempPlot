@@ -8,7 +8,7 @@
     "@types/mongodb": "^3.5.17",
     "@types/mongoose": "^5.7.20",
     "cors": "^2.8.5",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "mongoose": "^4.0.0",
     "mqtt": "^4.0.1"
   },
